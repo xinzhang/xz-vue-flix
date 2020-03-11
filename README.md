@@ -1,24 +1,3 @@
-# xz-vueflix
+### Vue flix
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is the final code following the article [Build a movie app with vuejs](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b)
